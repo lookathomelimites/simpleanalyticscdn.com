@@ -1,0 +1,2 @@
+# simpleanalyticscdn.com
+with
